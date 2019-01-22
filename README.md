@@ -1,1 +1,1 @@
-# kkbd
+# Kosa Kata Bahasa Duri
