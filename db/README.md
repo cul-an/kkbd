@@ -1,9 +1,7 @@
-Lexicon
+# Sumber database kosa kata
 ======
-Data Bahasa Indonesia
 
-
-1. Kata dasar KBBI
-Kata dasar beserta jenisnya dalam Kamus Besar Bahasa Indonesia
-
-
+sumber database
+https://github.com/efenfauzi/django_kbbi
+https://github.com/andrisetiawan/lexicon
+https://github.com/bgli/kbbi-qt
